@@ -1,5 +1,5 @@
-![logo](https://github.com/srssieam/srssieam/blob/main/github%20banner.png)
-<h1 align="center">A passionate React Developer</h1>
+![logo](https://github.com/srssieam/srssieam/blob/main/banner.png)
+<h1 align="center">Contact</h1>
 
 <div align="center" style="margin-bottom: 20px;"> 
   <a href="mailto:srssieam@gmail.com">
