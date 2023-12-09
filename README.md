@@ -45,6 +45,8 @@
   <img width="400px" src="https://api.githubtrends.io/user/svg/srssieam/langs?time_range=one_year&theme=dark"/>
 <img width="400px" src="https://api.githubtrends.io/user/svg/srssieam/repos?time_range=one_year&theme=dark"/>
 </p>
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srssieam&theme=dark" />
+
 
 <h1 align="center">My Featured Projects</h1>
 <h3>Project -1 :</h3>
