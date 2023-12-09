@@ -46,6 +46,34 @@
 <img width="400px" src="https://api.githubtrends.io/user/svg/srssieam/repos?time_range=one_year&theme=dark"/>
 </p>
 
+<h1 align="center">My Featured Projects</h1>
+<h3>Project -1 :</h3>
+<p><b>Title:</b>  DreamDwell</p>
+<p><b>Project type:</b>  Real estate (MERN Stack Project)</p>
+<p><b>Tech:</b>  React Js, Node Js, MongoDB, Express Js, Tailwind CSS, DaisyUI, Firebase Authentication, JWT Authentication.</p>
+<p><b>Details:</b> This is MARN Stack Project with Admin panel , Agent panel and regular user panel. Admin can promote any user to admin or agent and delete any of users and  have other powers.</p>
+<h4>Live link:  https://dreamdwell.web.app/</h4>
+<h4>Client:  https://github.com/srssieam/DreamDwell</h4>
+<h4>Server: https://github.com/srssieam/DreamDwell-server</h4>
+
+<h3>Project -2 :</h3>
+<p><b>Title:</b>  YamWeb</p>
+<p><b>Project type:</b> Restaurant (MERN Stack Project)</p>
+<p><b>Tech:</b>  React Js, Node Js, MongoDB, Express Js, Tailwind CSS, DaisyUI, Firebase Authentication, JWT Authentication.</p>
+<p><b>Details:</b> This is MARN Stack Project with friendly user interface where a user can order food</p>
+<h4>Live link:  https://yamweb.netlify.app/</h4>
+<h4>Client:  https://github.com/srssieam/YamWeb</h4>
+<h4>Server: https://github.com/srssieam/YamWeb-Server</h4>
+
+<h3>Project -3 :</h3>
+<p><b>Title:</b>  SrsTech</p>
+<p><b>Project type:</b> Ecommerce (MERN Stack Project)</p>
+<p><b>Tech:</b>  React Js, Node Js, MongoDB, Express Js, Tailwind CSS, DaisyUI, Firebase Authentication</p>
+<h4>Live link:  https://srstech.netlify.app/</h4>
+<h4>Client:  https://github.com/srssieam/Srs-tech-client-site</h4>
+<h4>Server: https://github.com/srssieam/Srs-tech-server-site</h4>
+
+
 
 
 
