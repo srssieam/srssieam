@@ -1,4 +1,14 @@
 ![logo](https://github.com/srssieam/srssieam/blob/main/banner.png)
+
+
+  
+- 🌱 I’m currently learning **React, Node JS**
+
+- 👨‍💻 All of my projects are available at [srssieam.vercel.app](srssieam.vercel.app)
+
+- 💬 Ask me about **React**
+  <img align="right" width="300px" src="https://github.com/srssieam/srssieam/assets/113814879/e5f22f7a-262d-4337-9e59-94d85d57acdc" />
+
 <h1 align="center">Contact</h1>
 
 <div align="center" style="margin-bottom: 20px;"> 
