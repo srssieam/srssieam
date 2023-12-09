@@ -1,5 +1,10 @@
 ![logo](https://github.com/srssieam/srssieam/blob/main/github%20banner.png)
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=srssieam&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&background=45%2C01312A%2C087B1E&dates=EBEA05&stroke=15EB0C&ring=0AEB18&fire=23EB03&sideNums=05EB1B&excludeDaysLabel=01EB0E&currStreakNum=08EB2C" alt="GitHub Streak" />
+  </a>
+</p>
 ### Hi there 👋
 
 
